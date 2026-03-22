@@ -49,7 +49,7 @@ Pull the embedding model:
 
 ### Single input
 
-    python embeddings.py "Kubernetes is powerful"
+    python embeddings.py "Example text here"
 
 Shows:
 - tokenisation  
